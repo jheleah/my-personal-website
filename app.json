@@ -1,0 +1,6 @@
+{
+  "name": "my-personal-website",
+  "description": "A Sample Blogging Site for DWCSJ CSIT",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
